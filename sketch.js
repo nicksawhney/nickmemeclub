@@ -9,13 +9,13 @@ function setup(){
 	canvas.position(0, 0);
 	canvas.style("z-index", "-1");
 	slider1 = createSlider(0, 255, 255);
-	slider1.position(10,110);
+	slider1.position(10,410);
 	slider2 = createSlider(0, 255, 255);
-	slider2.position(10,130);
+	slider2.position(10,430);
 	slider3 = createSlider(0, 255, 255);
-	slider3.position(10,150);
+	slider3.position(10,450);
 	slider4 = createSlider(0, 100, 50);
-	slider4.position(10, 170);
+	slider4.position(10, 470);
 
 }
 
